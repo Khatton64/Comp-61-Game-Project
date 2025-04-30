@@ -4,7 +4,7 @@
 
 # Game Overview
 
-**Game Title:** Working Title  
+**Game Title:** Zombyte 
 **Genre:** Action Roguelike, Survival, Bullet Hell
 
 **Game Summary: **
