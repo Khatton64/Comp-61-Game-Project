@@ -62,7 +62,3 @@ Centuries after a catastrophic war between vampire clans and humanity, a forbidd
 **Engine:** Python + Pygame  
 **Assets:** Custom + Royalty-Free  
 **Sound:** BFXR + Freesound.org
-
----
-
-> ✨ *Feel free to modify the game title, summary, or plot for your specific vision. I can also help you add badges, screenshots, or a changelog section if you're planning to upload this to GitHub!*
